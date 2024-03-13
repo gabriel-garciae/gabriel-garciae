@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate data from Brazil</h3>
+<h3 align="center">A data passionate from Brazil</h3>
 
 
 - 🔭 I’m currently working at [Via](https://github.com/viavarejo-internal)
