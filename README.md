@@ -2,8 +2,6 @@
 <h3 align="center">A data passionate from Brazil</h3>
 
 
-- 🔭 I’m currently working at [Via](https://github.com/viavarejo-internal)
-
 - 🌱 I'm currently working to improve data environments
 
 - 💬 Ask me about **Azure, AWS, Databricks, Airflow, Airbyte, Spark, DBT, Looker, Metabase, Tableau**
